@@ -1,16 +1,14 @@
-### Hi there 👋
+![engaged!](https://user-images.githubusercontent.com/54862783/125913036-52f0020d-560b-493e-89dc-9483b3c0165c.png)
+
+I am a fourth year engineering undergraduate student at BIT Mesra, Ranchi.
 
 <!--
-**rishavrajRDX/rishavrajRDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rishavrajRDX/rishavrajRDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various web-dev and embedded projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on web-dev and robotics projects
+- 💬 Ask me about anything(I will try to resolve your queries)
+- 📫 You can rech me out through https://rishavraj.tech/
+
+
