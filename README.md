@@ -1,4 +1,4 @@
-![engaged! (1)](https://user-images.githubusercontent.com/54862783/125917712-c8b7e41f-ca4f-4ddb-840e-81606834fa8c.png)
+![engaged! (2)](https://user-images.githubusercontent.com/54862783/125918135-c280ccf0-28cd-4952-8034-5817d9c1b459.png)
 
 
 I am a fourth year engineering undergraduate student at BIT Mesra, Ranchi.
